@@ -1,0 +1,33 @@
+body{
+
+display: flex;
+justify-content: center;
+padding-left: auto;
+padding-right: auto;
+padding-top: auto;
+padding-bottom:auto;
+background-color: pink;
+color: purple;
+}
+h2{
+    margin-left: 20px;
+}
+
+input[type=text]{
+    padding:15px 10px 15px 10px;
+    border:1px solid purple;
+    width:100%;
+    
+}
+
+
+input[type=submit] {
+    width: 40%;
+    background-color: purple;
+    color: white;
+    padding: 14px 20px;
+    margin: 30px 0px 0px 120px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
